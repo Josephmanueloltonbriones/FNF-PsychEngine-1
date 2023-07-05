@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="effect.png"><SubTexture name="effect animation0000" x="0" y="0" width="1292" height="685" frameX="0" frameY="0" frameWidth="1292" frameHeight="685" />
+<SubTexture name="effect animation0001" x="1292" y="0" width="1292" height="685" frameX="0" frameY="0" frameWidth="1292" frameHeight="685" />
+<SubTexture name="effect animation0002" x="0" y="685" width="1292" height="685" frameX="0" frameY="0" frameWidth="1292" frameHeight="685" />
+<SubTexture name="effect animation0003" x="1292" y="685" width="1292" height="685" frameX="0" frameY="0" frameWidth="1292" frameHeight="685" />
+<SubTexture name="effect animation0004" x="0" y="1370" width="1292" height="685" frameX="0" frameY="0" frameWidth="1292" frameHeight="685" />
+<SubTexture name="effect animation0005" x="1292" y="0" width="1292" height="685" frameX="0" frameY="0" frameWidth="1292" frameHeight="685" />
+<SubTexture name="effect animation0006" x="1292" y="1370" width="1292" height="685" frameX="0" frameY="0" frameWidth="1292" frameHeight="685" />
+<SubTexture name="effect animation0007" x="1292" y="685" width="1292" height="685" frameX="0" frameY="0" frameWidth="1292" frameHeight="685" />
+</TextureAtlas>
