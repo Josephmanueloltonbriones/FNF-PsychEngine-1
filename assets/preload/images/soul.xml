@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="soul.png"><SubTexture name="soul spikes0000" x="0" y="0" width="1292" height="685" frameX="0" frameY="0" frameWidth="1292" frameHeight="685" />
+<SubTexture name="spikes0001" x="1292" y="0" width="1292" height="685" frameX="0" frameY="0" frameWidth="1292" frameHeight="685" />
+<SubTexture name="spikes0002" x="0" y="685" width="1292" height="685" frameX="0" frameY="0" frameWidth="1292" frameHeight="685" />
+<SubTexture name="spikes0003" x="1292" y="685" width="1292" height="685" frameX="0" frameY="0" frameWidth="1292" frameHeight="685" />
+<SubTexture name="spikes0004" x="0" y="1370" width="1292" height="685" frameX="0" frameY="0" frameWidth="1292" frameHeight="685" />
+<SubTexture name="spikes0005" x="1292" y="0" width="1292" height="685" frameX="0" frameY="0" frameWidth="1292" frameHeight="685" />
+<SubTexture name="spikes0006" x="1292" y="1370" width="1292" height="685" frameX="0" frameY="0" frameWidth="1292" frameHeight="685" />
+<SubTexture name="spikes0007" x="1292" y="685" width="1292" height="685" frameX="0" frameY="0" frameWidth="1292" frameHeight="685" />
+</TextureAtlas>

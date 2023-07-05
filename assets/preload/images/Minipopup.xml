@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Minipopup.png"><SubTexture name="Minipopup punch0000" x="1470" y="700" width="230" height="173" frameX="-670" frameY="-527" frameWidth="900" frameHeight="700" />
+<SubTexture name="Minipopup punch0001" x="688" y="1400" width="533" height="627" frameX="-367" frameY="-73" frameWidth="900" frameHeight="700" />
+<SubTexture name="Minipopup punch0002" x="900" y="700" width="570" height="639" frameX="-330" frameY="-61" frameWidth="900" frameHeight="700" />
+<SubTexture name="Minipopup punch0003" x="1916" y="1400" width="623" height="606" frameX="-277" frameY="-94" frameWidth="900" frameHeight="700" />
+<SubTexture name="Minipopup punch0004" x="0" y="1400" width="688" height="629" frameX="-212" frameY="-71" frameWidth="900" frameHeight="700" />
+<SubTexture name="Minipopup punch0005" x="740" y="2029" width="692" height="602" frameX="-208" frameY="-98" frameWidth="900" frameHeight="700" />
+<SubTexture name="Minipopup punch0006" x="0" y="2029" width="740" height="612" frameX="-160" frameY="-88" frameWidth="900" frameHeight="700" />
+<SubTexture name="Minipopup punch0007" x="1221" y="1400" width="695" height="626" frameX="-205" frameY="-74" frameWidth="900" frameHeight="700" />
+<SubTexture name="Minipopup punch0008" x="1747" y="700" width="685" height="642" frameX="-215" frameY="-58" frameWidth="900" frameHeight="700" />
+<SubTexture name="Minipopup punch0009" x="0" y="0" width="847" height="700" frameX="-53" frameY="0" frameWidth="900" frameHeight="700" />
+<SubTexture name="Minipopup punch0010" x="847" y="0" width="900" height="700" frameX="0" frameY="0" frameWidth="900" frameHeight="700" />
+<SubTexture name="Minipopup punch0011" x="0" y="700" width="900" height="700" frameX="0" frameY="0" frameWidth="900" frameHeight="700" />
+<SubTexture name="Minipopup punch0012" x="2432" y="700" width="131" height="353" frameX="-769" frameY="-347" frameWidth="900" frameHeight="700" />
+<SubTexture name="Minipopup punch0013" x="2563" y="700" width="54" height="233" frameX="-846" frameY="-467" frameWidth="900" frameHeight="700" />
+<SubTexture name="Minipopup punch0014" x="1747" y="0" width="900" height="700" frameX="0" frameY="0" frameWidth="900" frameHeight="700" />
+</TextureAtlas>
